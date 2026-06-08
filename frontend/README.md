@@ -4,6 +4,8 @@ React + Vite frontend for the [G$ Tip Jar](../README.md) creator tipping platfor
 
 See the [root README](../README.md) for project overview, architecture, and full setup instructions.
 
+The backend must be running before the dashboard or tipping flow will load data.
+
 ## Quick Start
 
 ```bash

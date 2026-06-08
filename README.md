@@ -2,6 +2,8 @@
 
 A creator tipping platform built for the **GoodDollar** ecosystem on **Celo**. Tip Jar lets digital creators set up a public tipping page so fans can support them with **G$** — GoodDollar's daily Universal Basic Income token.
 
+> **Status:** Prototype — tipping flow is simulated; wallet integration with GoodWallet on Celo is planned.
+
 ## Overview
 
 Tip Jar is a full-stack web app with two sides:
